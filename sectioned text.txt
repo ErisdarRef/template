@@ -1,8 +1,8 @@
-@brief 		x
-@details 	x
-@auth 		Justin Reina
-@date 		x
+@brief      x
+@details    x
+@auth       Justin Reina
+@date       x
 
 @section 	Notes
-	x
+    x
 
