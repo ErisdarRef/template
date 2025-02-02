@@ -11,6 +11,7 @@
 @section 	Opens
 	Completion of readme.txt
 	Examples/
+	Code/ sync
 	MATLAB StdComments
 	JAVA StdComments
 	Swift StdComments
